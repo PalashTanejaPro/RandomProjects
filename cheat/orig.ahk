@@ -1,4 +1,4 @@
-;Pean's AHK MultiScript Final
+;Palash's Final Script v7
 ;Settings
 sens:=2.52
 zoomsens:=0.75
